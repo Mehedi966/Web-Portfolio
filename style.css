@@ -49,12 +49,13 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
+    height: 80%;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;
-    
+    background-position: left; 
+
 }
 #full-stack{
     border-left:7px solid ;
